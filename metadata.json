@@ -1,0 +1,6 @@
+{
+  "name": "Application de QCM & Préparation aux Examens",
+  "description": "Application complète de QCM et de préparation aux examens comprenant 10 parties, mode entraînement, mode examen, tirage aléatoire de 100 questions, chronomètre, suivi des erreurs et intégration Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
